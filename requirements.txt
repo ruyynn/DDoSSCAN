@@ -1,0 +1,8 @@
+# Untuk web scraping atau API features
+pip install requests
+
+# Untuk color output yang lebih baik
+pip install colorama
+
+# Untuk progress bars
+pip install tqdm

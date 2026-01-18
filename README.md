@@ -1,3 +1,5 @@
+<img width="1536" height="433" alt="banner ruyy" src="https://github.com/user-attachments/assets/e7ee5349-b14e-4c02-9246-6ec9ccbad19b" />
+
 # DDoSSCAN
 DDoSSCAN is a network availability and stress testing utility intended for educational purposes, research, and authorized system testing. This tool helps users study traffic behavior and system resilience in controlled environments.
 

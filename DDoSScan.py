@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #Tools ini adalah versi awal, jangan lupa donate agar saya semangat untukk membuat versi lanjutannya 🔥
 #Gunakan dengan bijak, author tidak bertanggung jawab jika terjadi sesuatu! PASTIKAN ANDA PUNYA IZIN UNTUK MELAKUKAN TESTING INI!!
 

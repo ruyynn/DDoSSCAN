@@ -78,6 +78,7 @@ https://saweria.co/Ruyynn
 
 ---
 # Installation (LINUX/DEBIAN)
+
  git clone https://github.com/ruyynn/DDoSSCAN.git
 cd DDoSSCAN 
 
@@ -91,7 +92,8 @@ python3 DDoSScan.py
 
 
 # Installation (Windows)
- Install Python
+
+Install Python
 
 Download Python 3 dari https://www.python.org/downloads/windows/
 

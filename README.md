@@ -28,7 +28,7 @@ DDoSSCAN **HANYA BOLEH DIGUNAKAN** untuk:
 - Aktivitas ilegal atau merugikan pihak lain
 
 Penggunaan di luar tujuan yang diizinkan sepenuhnya menjadi **tanggung jawab pengguna**,  
-dan **bukan tanggung jawab pengembang**.
+dan **bukan tanggung jawab penulis**.
 
 ---
 
@@ -57,21 +57,7 @@ Python 3.x
 Gunakan tools ini **secara bertanggung jawab** dan **sesuai hukum yang berlaku**  
 di wilayah masing-masing.
 
----
-
-## 👤 Author
-**Ruyyn**  
-GitHub: https://github.com/ruyynn
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.  
-See the `LICENSE` file for details.
-
----
-
-## ☕ Support (Optional)
+## ☕ Support
 Jika kamu merasa tools ini bermanfaat:
 
 https://saweria.co/Ruyynn

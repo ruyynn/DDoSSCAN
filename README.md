@@ -58,9 +58,10 @@ Gunakan tools ini **secara bertanggung jawab** dan **sesuai hukum yang berlaku**
 di wilayah masing-masing.
 
 ## ☕ Support
-Jika kamu merasa tools ini bermanfaat:
+Jika kamu merasa tools ini bermanfaat, bisa support lewat Saweria:
 
-https://saweria.co/Ruyynn
+[![Saweria](https://img.shields.io/badge/Saweria-Donate-FF7A00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/Ruyynn)
+
 
 ---
 # Installation (LINUX/DEBIAN)

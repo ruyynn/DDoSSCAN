@@ -63,7 +63,7 @@ Python 3.x
 **Edukasi Nyata** - Belajar networking beneran, bukan cuma teori
 
 **⭐ KENAPA HARUS KASIH STAR SEKARANG?**
-Karena GUE BAKAL UPDATE ini tools. Setiap STAR tambah = 1 FITUR BARU yang gue tambahin.
+Karena GUE BAKAL UPDATE ini tools. Setiap STAR tambah 5 = 1 FITUR BARU yang gue tambahin.
 
 **🚨 WARNING:**
 "Setelah pake DDoSSCAN, lu bakal kebiasaan ngetest setiap server yang lu punya."

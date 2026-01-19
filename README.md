@@ -52,6 +52,26 @@ dan **bukan tanggung jawab penulis**.
 Python 3.x
 
 ---
+## ⭐ INI ALASAN KAMU HARUS KASIH STAR:
+
+**100% Working Code** - Udah di-test, ga cuma teori
+
+**Developer Aktif** - Update terus, baca GitHub aja
+
+**Free Version** - Ga ada bayar
+
+**Edukasi Nyata** - Belajar networking beneran, bukan cuma teori
+
+**⭐ KENAPA HARUS KASIH STAR SEKARANG?**
+Karena GUE BAKAL UPDATE ini tools. Setiap STAR tambah = 1 FITUR BARU yang gue tambahin.
+
+**🚨 WARNING:**
+"Setelah pake DDoSSCAN, lu bakal kebiasaan ngetest setiap server yang lu punya."
+
+📈 **"Tools ini bikin testing DDoS jadi gampang kayak klik-klik doang!**"
+
+# **GA PERCAYA? BUKTIIN SENDIRI**
+---
 
 ## ▶️ Usage Notice
 Gunakan tools ini **secara bertanggung jawab** dan **sesuai hukum yang berlaku**  

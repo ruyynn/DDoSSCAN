@@ -87,7 +87,7 @@ python3 -m pip install -r requirements.txt
 
 Jalankan script:
 
-python3 main.py
+python3 DDoSScan.py
 
 
 # Installation (Windows)

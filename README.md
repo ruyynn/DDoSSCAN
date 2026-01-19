@@ -61,10 +61,10 @@ di wilayah masing-masing.
 Jika kamu merasa tools ini bermanfaat, bisa support lewat Saweria:
 
 [![Saweria](https://img.shields.io/badge/Saweria-Donate-FF7A00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/Ruyynn)
-
+# JANGAN LUPA KASIH STAR YA ⭐ :)
 
 ---
-# Installation (LINUX/DEBIAN)
+# 🛠 Installation (LINUX/DEBIAN)
 
  git clone https://github.com/ruyynn/DDoSSCAN.git
 cd DDoSSCAN 
@@ -78,7 +78,7 @@ Jalankan script:
 python3 DDoSScan.py
 
 
-# Installation (Windows)
+# 🛠 Installation (Windows)
 
 Install Python
 

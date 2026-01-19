@@ -1,7 +1,8 @@
-<img width="1536" height="433" alt="banner ruyy" src="https://github.com/user-attachments/assets/e7ee5349-b14e-4c02-9246-6ec9ccbad19b" />
-
-# DDoSSCAN
-DDoSSCAN is a network availability and stress testing utility intended for educational purposes, research, and authorized system testing. This tool helps users study traffic behavior and system resilience in controlled environments.
+<p align="center">
+  <img src="https://github.com/ruyynn/DDoSSCAN/raw/main/assets/banner%20ruyy.png" 
+       alt="OlhoDeRuyy Banner"
+       style="width: 100%; max-width: 800px; border-radius: 8px; border: 1px solid #30363d;" />
+</p>
 
 # DDoSSCAN
 

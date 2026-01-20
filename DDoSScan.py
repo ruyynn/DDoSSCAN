@@ -335,7 +335,7 @@ class UltimateDDoSAttack:
         
         print(f"{Colors.CYAN}{'═' * 75}{Colors.RESET}")
         
-        choice = input(f"{Colors.GREEN}Select preset (1-7): {Colors.RESET}").strip()
+        choice = input(f"{Colors.GREEN}Pilih Target (1-7): {Colors.RESET}").strip()
         
         if choice == "7":
             return None
@@ -1102,7 +1102,7 @@ Ketik 'CONFIRM' untuk memulai serangan
 
 {Colors.CYAN}Contoh 1: Testing Web Server Sendiri{Colors.RESET}
 1. Pilih [2] Custom Attack
-2. Target IP: 192.168.1.100 (server lokal Anda)
+2. Target IP: "Masukan server lokal Anda"
 3. Port: 80
 4. Threads: 500
 5. Duration: 60

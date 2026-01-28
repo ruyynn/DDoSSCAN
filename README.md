@@ -6,7 +6,7 @@
 # DDoSSCAN 🚀
 **Lightweight Network Stress Testing Tool (Small-Scale Testing)**
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.++-blue)
 ![Scope](https://img.shields.io/badge/Scope-Small%20Servers-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)

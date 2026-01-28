@@ -1,123 +1,75 @@
 <p align="center">
-  <img src="https://github.com/ruyynn/DDoSSCAN/raw/main/assets/banner%20ruyy.png" 
-       alt="OlhoDeRuyy Banner"
-       style="width: 100%; max-width: 800px; border-radius: 8px; border: 1px solid #30363d;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=00FF00&center=true&width=720&lines=%E2%AD%90+JANGAN+LUPA+KASI+STAR+%3A0;%F0%9F%92%BB+JANGAN+LUPA+FOLLOW+GITHUB+RUYYNN" alt="Typing SVG" />
 </p>
 
-# DDoSSCAN
 
-DDoSSCAN adalah alat **Network Availability & Stress Testing** yang dirancang untuk
-keperluan **pengujian sistem secara sah**, edukasi keamanan jaringan, dan riset
-perilaku trafik pada lingkungan yang **memiliki izin resmi**.
+# DDoSSCAN 🚀
+**Lightweight Network Stress Testing Tool (Small-Scale Testing)**
 
-Tools ini **BUKAN** ditujukan untuk aktivitas ilegal atau penyalahgunaan layanan.
-
----
-
-## ⚠️ Legal & Ethical Disclaimer
-
-DDoSSCAN **HANYA BOLEH DIGUNAKAN** untuk:
-- Sistem milik sendiri
-- Sistem yang memiliki **izin tertulis** dari pemilik
-- Lingkungan lab, simulasi, atau pembelajaran
-- Penelitian dan edukasi cybersecurity
-
-❌ **DILARANG DIGUNAKAN UNTUK:**
-- Menyerang sistem tanpa izin
-- Mengganggu layanan publik
-- Aktivitas ilegal atau merugikan pihak lain
-
-Penggunaan di luar tujuan yang diizinkan sepenuhnya menjadi **tanggung jawab pengguna**,  
-dan **bukan tanggung jawab penulis**.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scope](https://img.shields.io/badge/Scope-Small%20Servers-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Support](https://img.shields.io/badge/Support-Saweria-orange)
+![Support](https://img.shields.io/badge/Support-Trakteer-red)
+![Cybersecurity](https://img.shields.io/badge/Topic-Cybersecurity-blueviolet)
+![RedTeam](https://img.shields.io/badge/RedTeam-purple)
 
 ---
 
-## 🎯 Purpose
-- Menguji **ketahanan & ketersediaan layanan**
-- Memahami **perilaku trafik jaringan**
-- Edukasi tentang **network load & stress**
-- Pembelajaran dasar keamanan jaringan
+## 🔹 Deskripsi 📚
+DDoSSCAN adalah **tool Python untuk small-scale stress testing & availability testing**,  
+dirancang **khusus untuk server kecil, lab environment, dan local testing**.
+
+Tool ini **TIDAK ditujukan** untuk:
+- enterprise-grade servers
+- large-scale infrastructure
+- real-world DDoS simulation
+
+DDoSSCAN fokus pada **edukasi, pengujian dasar, dan simulasi ringan**, bukan serangan skala besar.
+
+> ⚠️ **DISCLAIMER**
+> - Gunakan hanya pada server milik sendiri atau yang memiliki izin eksplisit  
+> - Tool ini **tidak efektif untuk server besar / protected infrastructure**
+> - Bukan replacement untuk professional load-testing tools
 
 ---
 
-## 🧠 Intended Audience
-- Cybersecurity learners
-- Network administrators
-- Security researchers
-- Students & lab practitioners
+## 🔹 Use Case yang Cocok 👾
+✅ Local server testing  
+✅ Small VPS / shared hosting  
+✅ Learning & cybersecurity lab  
+✅ Basic availability testing  
+
+❌ Cloud-scale servers  
+❌ CDN-protected targets  
+❌ Enterprise infrastructure  
 
 ---
 
-## 🧰 Requirements
-Python 3.x
+## 🔹 Fitur 🧪
+- Basic traffic simulation
+- Availability & response monitoring
+- Lightweight execution (low resource)
+- Simple logging output
 
 ---
-## ⭐ INI ALASAN KAMU HARUS KASIH STAR:
 
-**100% Working Code** - Udah di-test, ga cuma teori
-
-**Developer Aktif** - Update terus, baca GitHub aja
-
-**Free Version** - Ga ada bayar
-
-**Edukasi Nyata** - Belajar networking beneran, bukan cuma teori
-
-**⭐ KENAPA HARUS KASIH STAR SEKARANG?**
-Karena GUE BAKAL UPDATE ini tools. Setiap STAR tambah 5 = 1 FITUR BARU yang gue tambahin.
-
-**🚨 WARNING:**
-"Setelah pake DDoSSCAN, lu bakal kebiasaan ngetest setiap server yang lu punya."
-
-📈 **"Tools ini bikin testing DDoS jadi gampang kayak klik-klik doang!**"
-
-# **GA PERCAYA? BUKTIIN SENDIRI**
----
-
-## ▶️ Usage Notice
-Gunakan tools ini **secara bertanggung jawab** dan **sesuai hukum yang berlaku**  
-di wilayah masing-masing.
-
-## ☕ Support
-Jika kamu merasa tools ini bermanfaat, bisa support lewat Saweria:
-
-[![Saweria](https://img.shields.io/badge/Saweria-Donate-FF7A00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/Ruyynn)
-# JANGAN LUPA KASIH STAR YA ⭐ :)
-
----
-# 🛠 Installation (LINUX/DEBIAN)
-
- git clone https://github.com/ruyynn/DDoSSCAN.git
-cd DDoSSCAN 
-
-instal requirements:
-
-python3 -m pip install -r requirements.txt
-
-Jalankan script:
-
-python3 DDoSScan.py
-
-
-# 🛠 Installation (Windows)
-
-Install Python
-
-Download Python 3 dari https://www.python.org/downloads/windows/
-
+## 🔹 Instalasi 🛠️
+```bash
 git clone https://github.com/ruyynn/DDoSSCAN.git
 cd DDoSSCAN
-
-
 pip install -r requirements.txt
+```
+## 🔹 Cara Pakai 🛠️
+```bash
+python3 ddosscan.py
+```
+## 🔹 Support 💕🙏
+**Jika kamu ingin mendukung pengembangan tools ini, kamu bisa melalui:**
 
-Jalankan tools:
-python DDoSScan.py/
-py DDoSScan.py
+![Support](https://img.shields.io/badge/Support-Saweria-orange)
+![Support](https://img.shields.io/badge/Support-Trakteer-red)
 
-⚠️ Jika pip tidak dikenali
+Setiap dukungan membantu **peningkatan fitur, dokumentasi, dan pemeliharaan tool**.
 
-Pakai:
-
-python -m pip install -r requirements.txt
-
-> Educational • Ethical • Authorized Use Only

@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=00FF00&center=true&width=720&lines=%E2%AD%90+KASIH+STAR+DONG+%3A0;%F0%9F%92%BB+FOLLOW+GITHUB+RUYYNN;%E2%9D%A5+DUKUNG+TOOLS+INI%21" alt="Typing SVG" />
 </p>
 
+
+> AKAN DATANG DDoSScan versi 2.0 dengan fitur yang lebih baik daripada versi ini, Jangan lupa follow agar tidak ketinggalan 
+
+
 # DDoSSCAN 🚀
 **Lightweight Network Stress Testing Tool (Small-Scale Testing)**
 

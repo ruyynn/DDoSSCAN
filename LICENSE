@@ -1,21 +1,148 @@
-MIT License
+DDoSSCAN SOFTWARE LICENSE AGREEMENT
+=====================================
+Version 1.0 — Effective: 2026
 
-Copyright (c) 2026 Ruyynn
+Copyright (c) 2026 ruyynn (github.com/ruyynn)
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+════════════════════════════════════════════════════════════════
+ READ CAREFULLY BEFORE USING THIS SOFTWARE
+════════════════════════════════════════════════════════════════
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By downloading, installing, copying, or using DDoSSCAN ("the Software"),
+you agree to be bound by the terms of this License Agreement.
+If you do not agree, do not use the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+1. GRANT OF LICENSE
+───────────────────
+Subject to the terms of this Agreement, ruyynn grants you a
+limited, non-exclusive, non-transferable, revocable license to:
+
+  (a) Download and use the Software for personal, educational,
+      and authorized security research purposes only.
+  (b) Share unmodified copies of the Software with proper
+      attribution to the original author (ruyynn).
+
+
+2. PERMITTED USE
+────────────────
+You MAY use this Software ONLY for:
+
+  ✅ Load testing and stress testing on systems YOU OWN.
+  ✅ Network availability testing on infrastructure YOU CONTROL.
+  ✅ Authorized penetration testing with WRITTEN PERMISSION
+     from the system owner.
+  ✅ Educational purposes in a controlled lab environment.
+  ✅ Capture The Flag (CTF) competitions.
+
+
+3. RESTRICTIONS
+───────────────
+You MAY NOT:
+
+  ❌ Use this Software to attack, disrupt, or degrade any
+     system, network, or service without explicit written
+     authorization from the owner.
+  ❌ Modify, reverse engineer, decompile, or create derivative
+     works based on this Software without prior written
+     permission from ruyynn.
+  ❌ Sell, sublicense, rent, lease, or commercially distribute
+     this Software or any portion thereof.
+  ❌ Remove or alter any copyright notices, watermarks, or
+     attribution in the Software.
+  ❌ Use this Software against government, military, critical
+     infrastructure, or financial systems.
+  ❌ Use this Software for any illegal, malicious, or harmful
+     purpose under applicable law.
+  ❌ Claim authorship or ownership of this Software.
+
+
+4. ATTRIBUTION
+──────────────
+Any permitted distribution or reference to this Software must
+clearly state:
+
+  "DDoSSCAN by ruyynn — github.com/ruyynn/DDoSSCAN"
+
+You must not misrepresent the origin of the Software.
+
+
+5. DISCLAIMER OF WARRANTIES
+────────────────────────────
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR
+REQUIREMENTS OR OPERATE WITHOUT INTERRUPTION OR ERROR.
+
+
+6. LIMITATION OF LIABILITY
+───────────────────────────
+IN NO EVENT SHALL RUYYNN BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING
+OUT OF OR IN CONNECTION WITH YOUR USE OR INABILITY TO USE THIS
+SOFTWARE — INCLUDING BUT NOT LIMITED TO:
+
+  • Data loss or corruption
+  • Network disruption
+  • Legal consequences from misuse
+  • Damages to third-party systems
+
+THE ENTIRE RISK ARISING OUT OF USE OF THE SOFTWARE REMAINS
+WITH YOU, THE USER.
+
+
+7. LEGAL COMPLIANCE
+────────────────────
+You are solely responsible for ensuring your use of this Software
+complies with all applicable local, national, and international
+laws, including but not limited to:
+
+  • Undang-Undang ITE No. 11 Tahun 2008 (Indonesia)
+  • Computer Fraud and Abuse Act — CFAA (USA)
+  • Computer Misuse Act (UK)
+  • NIS Directive (EU)
+  • And equivalent laws in your jurisdiction.
+
+Unauthorized use of this Software against systems you do not own
+or have permission to test constitutes a criminal offense in most
+jurisdictions and may result in fines, imprisonment, and civil
+liability.
+
+
+8. TERMINATION
+──────────────
+This license is automatically terminated if you violate any term
+of this Agreement. Upon termination, you must immediately cease
+all use of the Software and destroy all copies in your possession.
+
+ruyynn reserves the right to revoke this license at any time for
+any reason.
+
+
+9. GOVERNING LAW
+─────────────────
+This Agreement shall be governed by the laws of the Republic of
+Indonesia. Any disputes shall be subject to the exclusive
+jurisdiction of courts in Indonesia.
+
+
+10. CONTACT & REPORTING ABUSE
+───────────────────────────────
+Author    : ruyynn
+GitHub    : https://github.com/ruyynn
+Report    : ruyynn25@gmail.com
+
+If you witness misuse of this Software, please report it to
+the author immediately.
+
+
+════════════════════════════════════════════════════════════════
+ BY USING THIS SOFTWARE YOU ACKNOWLEDGE THAT YOU HAVE READ,
+ UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.
+════════════════════════════════════════════════════════════════
+
+Copyright (c) 2026 ruyynn — All Rights Reserved.

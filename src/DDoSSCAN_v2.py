@@ -745,7 +745,7 @@ class DDoSSCAN:
   {Fore.CYAN}Author  :{Style.RESET_ALL}  ruyynn
   {Fore.CYAN}GitHub  :{Style.RESET_ALL}  https://github.com/ruyynn/DDoSSCAN
   {Fore.CYAN}Version :{Style.RESET_ALL}  2.0.0
-  {Fore.CYAN}License :{Style.RESET_ALL}  MIT
+  {Fore.CYAN}License :{Style.RESET_ALL}  CUSTOM - SEE LICENSE.txt FOR MORE DETAILS
 
   {Fore.YELLOW}New in v2.0:{Style.RESET_ALL}
   {Fore.GREEN}  [+]{Style.RESET_ALL}  Domain Safety Blocker (gov/mil/critical infrastructure)

@@ -1,3 +1,7 @@
-requests
-colorama
-tqdm
+colorama>=0.4.6         
+requests>=2.28.0      
+scapy>=2.5.0             
+paramiko>=3.0.0          
+telnetlib3>=2.0.0        
+python-whois>=0.8.0      
+dnspython>=2.3.0        

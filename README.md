@@ -247,9 +247,9 @@ Summary:
 
 <div align="center">
     
-_Use Responsibly. Test Ethically. Secure Proactively._
-_DDoSSCAN v2.0 — Made with 🔥 by ruyynn_
+*Use Responsibly. Test Ethically. Secure Proactively.*
 
-⬆ Back to Top
+**DDoSSCAN v2.0** — Made with 🔥 by **[ruyynn](https://github.com/ruyynn)**
+[⬆ Back to Top](#)
 
-</div> 
+</div>

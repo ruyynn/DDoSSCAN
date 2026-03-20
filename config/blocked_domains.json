@@ -1,7 +1,7 @@
 {
   "_info": "DDoSSCAN v2.0 \u2014 Domain Blocker Config (International)",
   "_author": "ruyynn",
-  "_note": "Jangan hapus file ini. Domain blocker adalah fitur keamanan wajib.",
+  "_note": "Do not delete this file. Domain blocker is a mandatory security feature.",
   "blocked_tlds": [
     ".gov",
     ".mil",

@@ -37,7 +37,7 @@ All notable changes to DDoSSCAN are documented here.
 
 ---
 
-## [1.3.0] — 2025-xx-xx
+## [1.3.0] — 2026
 
 ### Added
 
@@ -54,7 +54,7 @@ All notable changes to DDoSSCAN are documented here.
 
 ---
 
-## [1.0.0] — 2025-xx-xx
+## [1.0.0] — 2025
 
 ### Initial Release
 

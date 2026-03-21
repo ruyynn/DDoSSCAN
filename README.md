@@ -184,6 +184,8 @@ DDoSSCAN/
     └── ❓ faq.md               # Frequently asked questions
 ```
 
+---
+
 ## 🔐 Safety Features
 
 > ✅ Automatic domain blocking - No accidental targeting of protected sites
@@ -195,6 +197,8 @@ DDoSSCAN/
 > ✅ Session logging - Complete audit trail of all activities
 
 > ✅ Error handling - Robust exception management
+
+---
 
 ## 🤝 Contributing
 
@@ -210,6 +214,8 @@ _Push to branch_ (`git push origin feature/AmazingFeature`)
 
 _Open a Pull Request_
 
+---
+
 ## 💖 Support Development
 _If DDoSSCAN has helped you in your security research or network testing, consider supporting future development:_
 
@@ -221,20 +227,26 @@ _Every contribution helps maintain and improve the tool_
 
 </div>
 
+---
+
 ## 📜 License
-This project is released under a Custom License. See **[LICENSE](LICENSE.txt)** for full terms.
 
-Summary:
+This project is licensed under the **GNU General Public License v3.0**.
 
-> ✅ You may use this tool for authorized testing only
+You are free to:
 
-> ✅ You may share and distribute unmodified versions
+> ✅ Use the software
 
-> ❌ You may not modify, sell, or redistribute without permission
+> ✅ Study and modify the source code
 
-> ❌ You may not remove author credits
+> ✅ Share and redistribute the software
 
-> ❌ Commercial use requires explicit permission
+> ✅ Create derivative works under the same GPL v3 license
+
+Additional project terms apply, including attribution and project name protection.
+See **[ADDITIONAL_TERMS.md](ADDITIONAL_TERMS.md)** for details.
+
+---
 
 ## 📞 Contact & Support
 

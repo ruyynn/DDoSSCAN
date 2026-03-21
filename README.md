@@ -172,7 +172,7 @@ pip install requests scapy paramiko  # Enhanced functionality
 ```text
 DDoSSCAN/
 ├── 📄 README.md                 # Documentation
-├── 📜 LICENSE.txt               # Custom license
+├── 📜 LICENSE                   # license
 ├── ⚠️ DISCLAIMER.md            # Legal disclaimer
 ├── 📋 CHANGELOG.md              # Version history
 ├── 📁 src/

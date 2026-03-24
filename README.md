@@ -8,7 +8,7 @@
 
 [![Version](https://img.shields.io/badge/Version-2.0.0-22d3ee?style=flat-square&logo=github&logoColor=white)](https://github.com/ruyynn/DDoSSCAN)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-Custom-ff6b6b?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE.txt)
+[![License](https://img.shields.io/badge/License-GPL3.0-ff6b6b?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE.txt)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Termux-22d3ee?style=flat-square&logo=android&logoColor=white)](https://termux.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ruyynn-0d1117?style=flat-square&logo=github)](https://github.com/ruyynn)

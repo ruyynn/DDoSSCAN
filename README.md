@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="https://github.com/ruyynn/DDoSSCAN/blob/main/Assets/DDoS.png" width="720" alt="DDoS.png">
+  
+
+
 ![DDoSSCAN Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&random=false&width=600&height=70&lines=DDoSSCAN+v2.0;Network+Stress+Testing;Infrastructure+Resilience;Professional+Load+Testing)
 
 # 🔥 DDoSSCAN

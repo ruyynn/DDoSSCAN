@@ -91,6 +91,7 @@ graph LR
     E --> E1[cloudflare, akamai, fastly...]
     F --> F1[un.org, who.int, redcross...]
 ```
+
 ```Configurable Blocklist: config/blocked_domains.json```
 
 ## 🎯 Use Cases & Permissions
